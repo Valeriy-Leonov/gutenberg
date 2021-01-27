@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### New Features
+
+-   Enabled `import/default` and `import/named` rules in the `recommended` ruleset. [#28513](https://github.com/WordPress/gutenberg/pull/28513)
+
 ## 8.0.0 (2021-01-21)
 
 ### Breaking Changes
